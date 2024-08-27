@@ -116,17 +116,7 @@ Values of MSE, MAE and RMSE
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
 
-3. 
-4. 
 
-## Program:
-```
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
-*/
-```
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
