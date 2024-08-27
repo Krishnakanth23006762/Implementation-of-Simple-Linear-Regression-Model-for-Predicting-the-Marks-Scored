@@ -110,17 +110,10 @@ Test Set Graph
 
 Values of MSE, MAE and RMSE
 
-![mse](https://user-images.githubusercontent.com/119393424/229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c.png)
+
+![image](https://github.com/user-attachments/assets/93391cca-6ebc-47dd-a9db-3a53de7af64b)
 
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
 
-
-
-## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
-
-## Result:
-Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
