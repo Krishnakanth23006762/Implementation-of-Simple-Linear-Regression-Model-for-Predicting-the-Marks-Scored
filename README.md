@@ -26,6 +26,16 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Predict the regression for marks by using the representation of the graph.
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
+
+
+
+
+
+
+
+
+
+
 ## Program:
 ```
 /*
