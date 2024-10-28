@@ -8,7 +8,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 
-### 1.Import necessary libraries for data handling, visualization, and machine learning.
+1.Import necessary libraries for data handling, visualization, and machine learning.
 ### 2.Read the student_scores.csv file and display initial data insights.
 ### 3.Separate features (x) and target (y).
 ### 4.Split data into training and test sets.
