@@ -8,13 +8,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 
-1.Import necessary libraries for data handling, visualization, and machine learning.
-2.Read the student_scores.csv file and display initial data insights.
-3.Separate features (x) and target (y).
-4.Split data into training and test sets.
-5.Fit a linear regression model on the training data.
-6.Predict on test data and plot both training and test data with regression lines.
-7.Calculate and print MSE, MAE, and RMSE for model performance.
+### 1.Import necessary libraries for data handling, visualization, and machine learning.
+### 2.Read the student_scores.csv file and display initial data insights.
+### 3.Separate features (x) and target (y).
+### 4.Split data into training and test sets.
+### 5.Fit a linear regression model on the training data.
+### 6.Predict on test data and plot both training and test data with regression lines.
+### 7.Calculate and print MSE, MAE, and RMSE for model performance.
 
 ## Program:
 ```
