@@ -9,19 +9,12 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 1. Import necessary libraries for data handling, visualization, and machine learning.
 2. Read the student_scores.csv file and display initial data insights.
-3. Find the slope m of the line of best fit using the formula. 
-<img width="231" alt="image" src="https://user-images.githubusercontent.com/93026020/192078527-b3b5ee3e-992f-46c4-865b-3b7ce4ac54ad.png">
-4. Compute the y -intercept of the line by using the formula:
-<img width="148" alt="image" src="https://user-images.githubusercontent.com/93026020/192078545-79d70b90-7e9d-4b85-9f8b-9d7548a4c5a4.png">
-5. Use the slope m and the y -intercept to form the equation of the line.
-6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
-1.
-2..
-### 3.Separate features (x) and target (y).
-### 4.Split data into training and test sets.
-### 5.Fit a linear regression model on the training data.
-### 6.Predict on test data and plot both training and test data with regression lines.
-### 7.Calculate and print MSE, MAE, and RMSE for model performance.
+3. Separate features (x) and target (y). 
+4. Split data into training and test sets.
+5. it a linear regression model on the training data.
+6. Predict on test data and plot both training and test data with regression lines.
+7. Calculate and print MSE, MAE, and RMSE for model performance.
+ 
 
 ## Program:
 ```
